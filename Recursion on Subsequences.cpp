@@ -41,3 +41,7 @@ printF(0,ds,arr,n);
 
 
 }
+
+
+///time complexity O(2^n)*n
+///space complexity O(n)
